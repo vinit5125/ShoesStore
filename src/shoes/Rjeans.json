@@ -1,0 +1,117 @@
+[
+    {
+     "id": 1,
+     "name": "Bata 01",
+     "brand": "BATA",
+     "gender": "MEN",
+     "category": "Formal",
+     "price": 10900,
+     "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/9/o/u/-original-imahfxth8tfr3spv.jpeg?q=70"
+   
+    
+   },
+    {
+     "id": 2,
+     "name": "Bata 02",
+     "brand": "BATA",
+     "gender": "MEN",
+     "category": "Formal",
+     "price":  13000,
+     "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/w/i/-original-imahfxtgz7yqrt4g.jpeg?q=70"
+   },{
+    "id": 3,
+    "name": "Bata 03",
+    "brand": "BATA",
+    "gender": "MEN",
+    "category": "Formal",
+    "price": 10900,
+    "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/m/l/-original-imahfxtghwxpw4yk.jpeg?q=70"
+  
+   
+  },
+   {
+    "id": 4,
+    "name": "Grand Court",
+    "brand": "Red-Chief",
+    "gender": "MEN",
+    "category": "Formal",
+    "price":  13000,
+    "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/9/s/q/-original-imagfb9skpwhtbnx-bb.jpeg?q=70"
+  },{
+    "id": 5,
+    "name": "Bata 01",
+    "brand": "Red-Chief",
+    "gender": "MEN",
+    "category": "Formal",
+    "price": 10900,
+    "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/e/3/n/-original-imaggdffzqg2jfzh.jpeg?q=70"
+  
+   
+  },
+   {
+    "id": 6,
+    "name": "Grand Court",
+    "brand": "Red-Chief",
+    "gender": "MEN",
+    "category": "Formal",
+    "price":  13000,
+    "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/e/e/d/-original-imagfywbjcem6bja-bb.jpeg?q=70"
+  },{
+    "id": 7,
+    "name": "Bata 01",
+    "brand": "WoodLand",
+    "gender": "MEN",
+    "category": "Formal",
+    "price": 10900,
+    "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/6/h/6-gf-4141021-40-woodland-tan-original-imah2p4shgqwj2rz.jpeg?q=70"
+  
+   
+  },
+   {
+    "id": 8,
+    "name": "Grand Court",
+    "brand": "WoodLand",
+    "gender": "MEN",
+    "category": "Formal",
+    "price":  13000,
+    "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/c/q/v/5-gf-26133-39-woodland-black-original-imah2p5bkpvvtfzc.jpeg?q=70"
+  },{
+    "id":9,
+    "name": "Bata 01",
+    "brand": "WoodLand",
+    "gender": "MEN",
+    "category": "Formal",
+    "price": 10900,
+    "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/g/f/n/-original-imah4j7hs3dpmhz7.jpeg?q=70"
+  
+   
+  },
+   {
+    "id": 10,
+    "name": "Grand Court",
+    "brand": "Adidas",
+    "gender": "MEN",
+    "category": "Formal",
+    "price":  13000,
+    "img":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw604b4d10/images/tile/8346891_2.jpeg?sw=362"
+  },{
+    "id": 11,
+    "name": "Bata 01",
+    "brand": "Adidas",
+    "gender": "MEN",
+    "category": "Formal",
+    "price": 10900,
+    "img":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw0afe3e66/images/tile/8316471_2.jpeg?sw=362"
+  
+   
+  },
+   {
+    "id": 12,
+    "name": "Grand Court",
+    "brand": "Adidas",
+    "gender": "MEN",
+    "category": "Formal",
+    "price":  13000,
+    "img":"https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw24e15efa/images/tile/8516214_2.jpeg?sw=362"
+  }
+]

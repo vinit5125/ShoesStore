@@ -1,0 +1,112 @@
+[
+    {
+     "id": 1,
+     "name": "jeans",
+     "brand": "Red Tape",
+     "gender": "MEN",
+     "category": "CASUAL",
+     "price": 10900,
+     "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/x/e/g/6-rsl002-6-red-tape-black-red-original-imah3t6rnk2kfefq.jpeg?q=70"
+   
+    
+   },
+    {
+     "id": 2,
+     "name": "Grand Court",
+     "brand": "Red Tape",
+     "gender": "MEN",
+     "category": "CASUAL",
+     "price":  13000,
+     "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/g/l/u/10-rsl060-10-red-tape-blue-grey-original-imah35xt7rgm5sz4.jpeg?q=70"
+   },
+
+   {
+     "id": 3,
+     "name": "Nike Air Zoom",
+     "brand": "Red Tape",
+     "gender": "MEN",
+     "category": "CASUAL",
+     "price": 12000 ,
+     "img":"https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/5/p/l/-original-imah2c3zmyzggbr2.jpeg?q=70"
+   },
+    {
+     "id": 4,
+     "name": "NRGY fusion M",
+     "brand": "Nike",
+     "gender": "MEN",
+     "category": "RUNNING",
+     "price":  6180 ,
+     "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1f6fceb7-c776-4b2c-9ada-12a39e10346e/BLAZER+LOW+%2777+VNTG.png"
+     },
+    {
+     "id": 5,
+     "name": "NRGY fusion M1",
+     "brand": "Nike",
+     "gender": "MEN",
+     "category": "RUNNING",
+     "price": 5250 ,
+     "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/999b7860-5b4c-4326-96ff-ce8846b3a76e/BLAZER+PHANTOM+LOW.png"
+     },
+     { "id": 6,
+     "name": "RAYRUN SHOES",
+     "brand": "Nike",
+     "gender": "MEN",
+     "category": "RUNNING",
+     "price":  4150 ,
+     "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ee32714e-ddf8-4312-b263-919a7d0a9e22/KILLSHOT+2.png"
+   },
+      {
+     "id": 7,
+     "name": "Predator Club",
+     "brand": "Nike",
+     "gender": "MEN",
+     "category": "FOOTBALL",
+     "price": 4480, 
+     "img":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3f3e7049-5c99-428c-abcd-e246b086f2ed/AIR+FORCE+1+%2707.png"
+      },
+     {
+     "id": 8,
+     "name": "Predator Pro",
+     "brand": "Nike",
+     "gender": "MEN",
+     "category": "FOOTBALL",
+     "price": 5145 ,
+     "img":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/20547d52-3e1b-4c3d-b917-f0d7e0eb8bdf/custom-nike-air-force-1-low-by-you-shoes.png"
+     },
+    {
+     "id": 9,
+     "name": "Copa Pure 2",
+     "brand": "Nike",
+     "gender": "MEN",
+     "category": "FOOTBALL",
+     "price": 6137,    
+     "img":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/81d74b03-72d2-43d6-b195-76ba59f5cd29/custom-nike-air-force-1-low-by-you-shoes.png" 
+   },
+  {
+     "id": 10,
+     "name": "CRINU 24 M",
+     "brand": "Nike",
+     "gender": "MEN",
+     "category": "cricket",
+     "price": 3990,
+     "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bc5a1dad-867a-49d7-8f83-6680bfce936e/AIR+JORDAN+1+MID+SE.png"
+   },
+    {
+     "id": 11,
+     "name": "CRI RISE V2 ",
+     "brand": "Nike",
+     "gender": "MEN",
+     "category": "cricket",
+     "price": 5100,
+     "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9921d678-ed65-49c6-bdcb-e85bebeb7c46/AIR+JORDAN+1+MID.png"
+   },
+    {
+     "id": 12,
+     "name": "CRINU 24 M",
+     "brand": "Nike",
+     "gender": "MEN",
+     "category": "cricket",
+     "price":  4510 ,
+     "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3157d472-63ce-457d-9723-b087da2666f5/AIR+JORDAN+1+RETRO+LOW+OG.png"   
+    }
+]

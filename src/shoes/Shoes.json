@@ -1,0 +1,112 @@
+[
+     {
+      "id": 1,
+      "name": "Samba OG Shoes",
+      "brand": "Campus",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price": 10900,
+      "img":"https://cdn.shopify.com/s/files/1/0607/6678/1671/files/CAMP-SPUNKY_22G-966_OFFWHT-NAVY_2.jpg?v=1712575970"
+    
+     
+    },
+     {
+      "id": 2,
+      "name": "Grand Court",
+      "brand": "Campus",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price":  13000,
+      "img":"https://cdn.shopify.com/s/files/1/0607/6678/1671/files/CAMP-SPUNKY_22G-966_BLK-F.GRN_2.jpg?v=1712575804"
+    },
+
+    {
+      "id": 3,
+      "name": "Adidas Air Zoom",
+      "brand": "Campus",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price": 12000 ,
+      "img":"https://cdn.shopify.com/s/files/1/0607/6678/1671/files/PEDRO_22G-856_M.BLUE-RED_2.jpg?v=1712578169"
+    },
+     {
+      "id": 4,
+      "name": "NRGY fusion M",
+      "brand": "Adidas",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price":  6180 ,
+      "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/26348bfef905495ca88ca4e83b5fb91e_9366/NRGY_fusion_M_White_IU6329_01_standard.jpg"
+      },
+     {
+      "id": 5,
+      "name": "NRGY fusion M1",
+      "brand": "Adidas",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price": 5250 ,
+      "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/56db8a089e534ec89306b305fec42dcd_9366/NRGY_fusion_M_Black_IU6328_01_standard.jpg"
+      },
+      { "id": 6,
+      "name": "RAYRUN SHOES",
+      "brand": "Adidas",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price":  4150 ,
+      "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9e39c5f060224fb880ccd7cd55ae448e_9366/RAYRUN_SHOES_Blue_IQ9110_01_standard.jpg"
+    },
+       {
+      "id": 7,
+      "name": "Predator Club",
+      "brand": "Nike",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price": 4480, 
+      "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/12bb7e18-8cce-4b7e-b917-b9c0676a49eb/AIR+ZOOM+PEGASUS+41.png"
+       },
+      {
+      "id": 8,
+      "name": "Predator Pro",
+      "brand": "Nike",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price": 5145 ,
+      "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/64227f1d8bcd4531a0eee4415d50d5d4_9366/Predator_Pro_Firm_Ground_Boots_Black_IF6328_22_model.jpg"
+      },
+     {
+      "id": 9,
+      "name": "Copa Pure 2",
+      "brand": "Nike",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price": 6137,    
+      "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41e1a36c-db8d-4fb6-8b99-e5d431cee1dd/NIKE+PEGASUS+TRAIL+5+GTX.png" 
+    },
+   {
+      "id": 10,
+      "name": "CRINU 24 M",
+      "brand": "Adidas",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price": 3990,
+      "img":"https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SL-259-WHRC-1.jpg"
+    },
+     {
+      "id": 11,
+      "name": "CRI RISE V2 ",
+      "brand": "Adidas",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price": 5100,
+      "img":"https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SM-812-BKNO-1.jpg"
+    },
+     {
+      "id": 12,
+      "name": "CRINU 24 M",
+      "brand": "Adidas",
+      "gender": "MEN",
+      "category": "Sports Shoes",
+      "price":  4510 ,
+      "img":"https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SL-259-WHGM-1.jpg"   
+     }
+]
